@@ -27,7 +27,7 @@ Controls
 
 Notes
 
-Made by hasnainlori-creator.
+Made by rayaan/aahil-spec
 
 Definitely play this with headphones in a dark room. You need to rely on the 3D audio to hear the monster's footsteps and your own heartbeat to know when he's getting close.
 
